@@ -1,2 +1,2 @@
 Git is a fuck version control system.
-Git is free software.
+Git is free software and quikly.
